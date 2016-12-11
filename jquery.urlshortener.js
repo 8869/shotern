@@ -5,8 +5,8 @@
 * Date: 24-Oct-2013
 */
 (function ($) {
-    var scriptsLoaded = false;
-    var clientLoaded = false;
+    var scriptsLoaded = true;
+    var clientLoaded = true;
 
     $.getScript("https://apis.google.com/js/client.js", function () {
         (function checkIfLoaded() {
