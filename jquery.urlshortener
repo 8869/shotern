@@ -85,7 +85,7 @@
 
     }
     $.urlShortener.settings = {
-        apiKey: '',
+        apiKey: 'AIzaSyCTy1e_5CHbA0P_RLAijADx4EwQTkeKBio',
         version: 'v1',
     };
 
